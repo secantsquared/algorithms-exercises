@@ -2,7 +2,6 @@
   "name": "algorithms-exercises",
   "version": "1.0.0",
   "description": "The exercises for the Complete Intro to Algorithms",
-  "main": "index.html",
   "scripts": {
     "start": "parcel index.html",
     "build": "parcel build index.html",
@@ -19,6 +18,7 @@
   },
   "devDependencies": {
     "@babel/core": "7.14.6",
+    "eslint": "^7.30.0",
     "jest": "^27.0.6"
   },
   "resolutions": {
